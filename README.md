@@ -1,11 +1,11 @@
 
 
-<a href="#"><img width="100%" height="auto" src="![banner2](https://user-images.githubusercontent.com/95064494/214555174-ac258293-2c8e-47d5-aa5b-6e3e11c677d9.png)" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/95064494/214555174-ac258293-2c8e-47d5-aa5b-6e3e11c677d9.png" height="175px"/></a>
 <h1 align="center">Hii👋, I'm Gauri</h1>
    
 <h3 align="center">My favorite numbers are 1 and 0; I guess that tells you who I am.😎</h3>
 
-<img align="right" alt="Coding" width="400" src="![gif1](https://user-images.githubusercontent.com/95064494/214555100-8d2c4db5-0c44-4922-be56-a6e2bb529e3f.gif)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95064494/214555100-8d2c4db5-0c44-4922-be56-a6e2bb529e3f.gif">
 
 ## 🙋‍♂️ About Me
 - 🏫 I'm 3rd year student pursuing Bachelors in Computer Science & Engineering. 
