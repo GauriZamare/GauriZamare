@@ -5,7 +5,7 @@
    
 <h3 align="center">My favorite numbers are 1 and 0; I guess that tells you who I am.😎</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95064494/214555100-8d2c4db5-0c44-4922-be56-a6e2bb529e3f.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/95064494/214555100-8d2c4db5-0c44-4922-be56-a6e2bb529e3f.gif">
 
 ## 🙋‍♂️ About Me
 - 🏫 I'm 3rd year student pursuing Bachelors in Computer Science & Engineering. 
