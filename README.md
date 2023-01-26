@@ -66,7 +66,7 @@
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 </p>
 ## ❤ Views and Followers
-<a href="https://github.com/GauriZamare/github-profile-views-counter">
+<a href="https://github.com/GauriZamare/github-profile-views-counter"><br/>
     <img src="https://komarev.com/ghpvc/?username=GauriZamare">
 </a>
 <a href="https://github.com/GauriZamare?tab=followers"><img src="https://img.shields.io/github/followers/GauriZamare?label=Followers&style=social" alt="GitHub Badge"></a>
